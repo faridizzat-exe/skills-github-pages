@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome to Farid's blog!
 ---
 
 <h2> The Beginning of My Humble Journey </h2>
